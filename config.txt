@@ -1,0 +1,8 @@
+#
+# sample config file
+#
+
+#comment
+author
+release_date : 2011-10-11
+version : 3.14.159
